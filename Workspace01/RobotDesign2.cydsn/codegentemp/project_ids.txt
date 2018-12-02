@@ -1,0 +1,6 @@
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\default\CyAnnotationLibrary\CyAnnotationLibrary.cylib\CyAnnotationLibrary.cyprj|0c39603f-d3f5-40e5-a0f4-eecba242c854
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibraryupdates\CyComponentLibraryUpdates.cylib\CyComponentLibraryUpdates.cyprj|29afe362-4d44-484b-8fd3-14d900e79d2c
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cycomponentlibrary\CyComponentLibrary.cylib\CyComponentLibrary.cyprj|16b51367-cc3f-4e23-b274-78a31e27ad7a
+C:\Program Files (x86)\Cypress\PSoC Creator\4.0\PSoC Creator\psoc\content\cyprimitives\CyPrimitives.cylib\CyPrimitives.cyprj|17045e42-e4af-4a40-bf1e-2407f90ca924
+C:\Users\LENOVO\Desktop\564\PSoc\Workspace01\RobotDesign.cydsn\RobotDesign.cyprj|2a65bcb5-3b0f-4a87-aff4-94322c1e022f
+C:\Users\LENOVO\Desktop\564\PSoc\Workspace01\RobotDesign2.cydsn\RobotDesign2.cyprj|89073da1-f85f-47e9-aa23-7889dc1bceda
